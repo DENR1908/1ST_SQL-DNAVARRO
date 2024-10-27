@@ -1,4 +1,5 @@
 # 1ST_SQL-DNAVARRO
-Este repositorio detalla la primera entrega.
-En la misma podemos observar una BD, en donde se centra en un sistema de información medica de pacientes, se aspira para la siguiente entrega llegar a realizar cruces con otros tipos de datos.
+En el repositorio se encuentran contenidos el Script de SQL, con el que fueron creadas las tablas.
+Principalemente la idea fue hacer una Pequeña base de datos, en la que consta de analisis medicos coberturas, y algunos diagnosticos.
+En esta misma se encuentran contenidos o referenciados los pacientes junto con diagnosticos y Cobertura.
 
