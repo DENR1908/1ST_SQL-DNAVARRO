@@ -1,6 +1,4 @@
 # 1ST_SQL-DNAVARRO
-Repositorio Para Entrega de CODERHOUSE Comision #59420.
+Este repositorio detalla la primera entrega.
+En la misma podemos observar una BD, en donde se centra en un sistema de información medica de pacientes, se aspira para la siguiente entrega llegar a realizar cruces con otros tipos de datos.
 
-
-El proyecto, al menos en esta fase (1era entrega), se encuentra situada en un control interno de usuarios para un sistema administrativo.
-Mismo que posteriormente sea capaz de controlar y registrar pedidos de compra y venta por usuarios.
